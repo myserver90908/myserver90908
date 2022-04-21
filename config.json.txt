@@ -1,0 +1,1 @@
+{"ip":"myserver90908.aternos.me","name":"myserver90908","port":"37415"}
